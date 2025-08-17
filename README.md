@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google Careers France - Deploy Railway
 
 Sistema completo de vagas de emprego do Google Careers France com backend Flask e frontend React.
@@ -93,3 +94,6 @@ python src/main.py
 
 **Desenvolvido para Google Careers France** 🇫🇷
 
+=======
+# googlecarrer
+>>>>>>> 30658391e803cf44a654e54f8842ec27a0218354
